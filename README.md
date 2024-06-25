@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ranjani
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning data science
+- 👋 Hi, I’m Sivaranjani
+  
+- 
+- 🌱 I’m currently working data science projects
 
   
 
